@@ -4,7 +4,7 @@
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
     xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
 
-    <podcore:episodeNumber>400</podcore:episodeNumber>
+    <podcore:episodeNumber>1000</podcore:episodeNumber>
     
     <podcore:sponsorName></podcore:sponsorName>
     
@@ -45,6 +45,9 @@
                     <vra:term></vra:term>
                 </vra:subject>
             </vra:subjectSet>
+            <vra:worktypeSet>
+                <vra:worktype></vra:worktype>
+            </vra:worktypeSet>
         </vra:work>
     </podcore:vraSection>
     
