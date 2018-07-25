@@ -4,14 +4,12 @@
     xmlns:podcore="https://github.com/lkatzmarek/good-good-repository"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
-    xmlns:ebucore="urn:ebu:metadata-schema:ebucore"
     elementFormDefault="qualified">
     
     <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
     <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" />
     <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-7.xsd"/>
     <xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
-    <xs:import namespace="urn:ebu:metadata-schema:ebucore" schemaLocation="https://www.ebu.ch/metadata/schemas/EBUCore/20171009/ebucore.xsd"/>
 <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
     
     <xs:element name="podcore">
@@ -23,7 +21,6 @@
                 <xs:element ref="podcore:modsSection" minOccurs="0"/>
                 <xs:element ref="podcore:dcSection" minOccurs="0"/>
                 <xs:element ref="podcore:vraSection" minOccurs="0"/>
-                <xs:element ref="podcore:ebucoreSection" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -50,14 +47,6 @@
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-    
-    <xs:element name="ebucoreSection">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element ref="ebucore:ebuCoreMain"></xs:element>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
