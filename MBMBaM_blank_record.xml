@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+
+    <podcore:episodeNumber>400</podcore:episodeNumber>
+    
+    <podcore:sponsorName></podcore:sponsorName>
+    
+    <podcore:recurringBits></podcore:recurringBits>
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre></mods:genre>
+            <mods:identifier></mods:identifier>
+            <mods:name>
+                <mods:role>
+                    <mods:roleTerm></mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title></dc:title>
+        <dc:date></dc:date>
+        <dc:description></dc:description>
+        <dc:language></dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work>
+            <vra:locationSet>
+                <vra:location></vra:location>
+            </vra:locationSet>
+            <vra:relationSet>
+                <vra:relation></vra:relation>
+            </vra:relationSet>
+            <vra:rightsSet>
+                <vra:rights></vra:rights>
+            </vra:rightsSet>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term></vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>
