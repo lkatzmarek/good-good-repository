@@ -15,9 +15,9 @@
     <xs:element name="podcore">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="recurringBits" type="xs:string" minOccurs="0"/>
+                <xs:element name="episodeNumber" type="xs:positiveInteger" maxOccurs="1"/>
                 <xs:element name="sponsorName" type="xs:string" minOccurs="0"/>
-                <xs:element name="episodeNumber" type="xs:positiveInteger" minOccurs="0"/>
+                <xs:element name="recurringBits" type="xs:string" minOccurs="0"/>
                 <xs:element ref="podcore:modsSection" minOccurs="0"/>
                 <xs:element ref="podcore:dcSection" minOccurs="0"/>
                 <xs:element ref="podcore:vraSection" minOccurs="0"/>
