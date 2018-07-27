@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+    
+    <podcore:episodeNumber>403</podcore:episodeNumber>
+    
+    <podcore:sponsorName>Casper</podcore:sponsorName>
+    <podcore:sponsorName>Audible</podcore:sponsorName>
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre authority="AAT" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/">Comedy</mods:genre>
+            
+            <mods:identifier type="local">mbmbam_003</mods:identifier>
+            <mods:identifier type="uri">http://www.maximumfun.org/my-brother-my-brother-and-me/mbmbam-403-hot-dog-wine</mods:identifier>
+            
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>McElroy, Griffin</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Creator</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Editor</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>McElroy, Justin, 1980-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Creator</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>McElroy, Travis</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Creator</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Host</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Maximum Fun Network</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Publisher</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title>MBMBaM 403: Hot Dog Wine</dc:title>
+        <dc:date>2018-04-23</dc:date>
+        <dc:description>This is a recording of the comedy podcast My Brother, My Brother and Me, episode number 403. Suggested talking points include: Nuclear Family Guy, Defeating the Tower of Terror, Public Porch, Fancy Wieners, Celebrity Wine: Why Not?, Five Blades, I Will Vacuum Your House for Twenty Dollars.</dc:description>
+        <dc:language>en</dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work> 
+            <vra:measurementsSet>
+                <vra:measurements type="runningTime" unit="minutes">65</vra:measurements>
+            </vra:measurementsSet>
+            
+            <vra:relationSet>
+                <vra:relation type="partOf">My Brother, My Brother and Me(Podcast)</vra:relation>
+            </vra:relationSet>
+            
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>McElroy, Griffin</vra:rightsHolder>
+                </vra:rights>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>McElroy, Justin</vra:rightsHolder>
+                </vra:rights>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>McElroy, Travis</vra:rightsHolder>
+                </vra:rights>
+                <vra:rights type="publisher">
+                    <vra:rightsHolder>Maximum Fun Network</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+            
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">My Brother, My Brother and Me(Podcast)</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">MBMBaM</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Comedy</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="local">Advice</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Brothers</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Popular culture</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Hot dogs</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="local">Celebrity wine</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">Downton Abbey(Television Show)</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            
+            <vra:worktypeSet>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">Sound Recordings</vra:worktype>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">Podcasts</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>
+

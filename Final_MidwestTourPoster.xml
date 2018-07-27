@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre authority="AAT" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/">Poster</mods:genre>
+            
+            <mods:identifier type="local">mbmbam_010</mods:identifier>
+            <mods:identifier type="uri">https://store.dftba.com/products/mbmbam-midwest-tour-poster</mods:identifier>
+            
+            <mods:name type="personal">
+                <mods:namePart>Sugar, Steven</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Maximum Fun Network</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">Distributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title>MBMBaM Midwest Tour Poster</dc:title>
+        
+        <dc:date>2017</dc:date>
+        
+        <dc:description>An illustrated 18"x24" poster depicting the three McElroy brothers (from left: Justin, Griffin, Travis) in a Midwest landscape, appearing to have a wilderness adventure</dc:description>
+        
+        <dc:language>en</dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work>
+            <vra:locationSet>
+                <vra:location type="geographic" extent="inhabited place">
+                    <vra:name vocab="TGN" href="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Chicago</vra:name>
+                </vra:location>
+                <vra:location type="geographic" extent="inhabited place">
+                    <vra:name vocab="TGN" href="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Minneapolis</vra:name>
+                </vra:location>
+                <vra:location type="geographic" extent="inhabited place">
+                    <vra:name vocab="TGN" href="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Milwaukee</vra:name>
+                </vra:location>
+            </vra:locationSet>
+            
+            <vra:measurementsSet>
+                <vra:measurements type="width" unit="in" extent="base">18</vra:measurements>
+                <vra:measurements type="length" unit="in" extent="base">24</vra:measurements>
+            </vra:measurementsSet>
+            
+            <vra:relationSet>
+                <vra:relation type="relatedTo">My Brother, My Brother and Me(Podcast)</vra:relation>
+            </vra:relationSet>
+            
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>DFTBA Records, LLC</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+            
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">My Brother, My Brother and Me(Podcast)</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">MBMBaM</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Midwest</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Chicago, Ill.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Minneapolis, Minn.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Milwaukee, Wis.</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="descriptiveTopic" vocab="LCSH" href="http://id.loc.gov/search/">Entertainment</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Tours</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            
+            <vra:worktypeSet>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">Posters</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>
+
+
