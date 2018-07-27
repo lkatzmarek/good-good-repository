@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+    
+    <podcore:recurringBits>Haunted Doll Watch</podcore:recurringBits>
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre authority="AAT" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/">Pins (jewelry)</mods:genre>
+            
+            <mods:identifier>mbmbam_014</mods:identifier>
+            <mods:identifier type="uri">https://store.dftba.com/collections/mcelroy/products/haunted-doll-watch-enamel-pin</mods:identifier>
+           
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>Schultz, Sam</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+           
+            <mods:name type="corporate">
+                <mods:namePart>DFTBA Records, LLC</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">distributor> </mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title>Haunted Doll Watch Enamel Pin</dc:title>
+        
+        <dc:date>2017</dc:date>
+        
+        <dc:description>This is an enamel pin featuring the head of a "haunted doll" and the phrase "Haunted Doll Watch".</dc:description>
+       
+        <dc:language>eng</dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work>
+            <vra:measurementsSet>
+                <vra:display>1.5 inches diameter</vra:display>
+                <vra:measurements type="diameter" unit="in">1.25</vra:measurements>
+            </vra:measurementsSet>
+            
+                <vra:relationSet>
+                    <vra:relation type="relatedTo">My Brother, My Brother and Me (Podcast)</vra:relation>
+                </vra:relationSet>
+        
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>DFTBA Records, LLC</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">My Brother, My Brother and Me (Podcast)</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">MBMBaM</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">Haunted Doll Watch</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Dress accessories</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+    
+            <vra:worktypeSet>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">Pins (jewelry)</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>

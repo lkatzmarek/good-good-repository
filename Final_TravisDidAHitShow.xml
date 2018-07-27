@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+   
+    <podcore:episodeNumber>3</podcore:episodeNumber>
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre authority="AAT" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/">Comedy</mods:genre>
+            <mods:identifier type="local">mbmbam_007</mods:identifier>
+            <mods:identifier type="uri">https://vrv.co/watch/G6NQZ1W36/My-Brother-My-Brother-and-Me:Tarantulas-Travis-Did-a-Hit</mods:identifier>
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>McElroy, Griffin</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">creator</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">host</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>McElroy, Travis</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">creator> </mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">host</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>McElroy, Justin, 1980-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">creator> </mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">host</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>McElroy, Clint</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">contributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Altman, Stacy</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Amato, J. D.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Balance, Kelsey</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Davies, Michael</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>DeMontreux, Debbie</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Dorris, Greg</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Dumont, Nellie</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Gruskin, Steven</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Jennings, Jackie</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Kerstetter, Dan</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Shapiro, Evan</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Valia, Anu</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Hagenstein, Seth</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">cinematographer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Hagenstein, Seth</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">cinematographer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Beck, Gregory</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">editor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Cyfers, Seth</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">set designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Hodne, Keith</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">sound designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Peckens, Nicole</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">costume designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Embassy Row</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">publisher> </mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title>Tarantulas &amp; Travis Did a Hit</dc:title>
+        
+        <dc:date>2017-02-23</dc:date>
+        
+        <dc:description>This is a video recording of episode 3, Tarantulas &amp; Travis Did a Hit,  from the My Brother, My Brother and Me television show. In this episode the brothers try to convince a viewer’s wife to let him get a tarantula by attempting to rebrand the mighty tarantula. Travis also commits a violent act.</dc:description>
+        
+        <dc:language>en</dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work>
+            <vra:locationSet>
+                <vra:location>
+                    <vra:name type="geographic" extent="inhabited place" vocab="TGN" href="http://www.getty.edu/research/tools/vocabularies/tgn/index.html">Huntington</vra:name>
+                    <vra:name type="geographic" extent="state">West Virginia</vra:name>
+                    <vra:name type="geographic" extent="nation">United States</vra:name>
+                </vra:location>
+            </vra:locationSet>
+            
+            <vra:measurementsSet>
+                <vra:measurements type="runningTime" unit="min">25</vra:measurements>
+            </vra:measurementsSet>
+            
+            <vra:relationSet>
+                <vra:relation type="PartOf">My Brother, My Brother and Me (Television Show)</vra:relation>
+                    <vra:relation type="relatedTo">My Brother, My Brother and Me (Podcast)</vra:relation> 
+            </vra:relationSet>
+            
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>McElroy, Griffin</vra:rightsHolder>
+                </vra:rights>
+                <vra:rights type="copyrighted">  
+                    <vra:rightsHolder>McElroy, Justin</vra:rightsHolder>
+                </vra:rights>
+                 <vra:rights type="copyrighted">   
+                    <vra:rightsHolder>McElroy, Travis</vra:rightsHolder>
+                </vra:rights>
+                <vra:rights type="publisher">
+                    <vra:rightsHolder>Embassy Row</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+            
+            <vra:subjectSet>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">My Brother, My Brother and Me (Podcast)</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term type="otherName" vocab="local">MBMBaM</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Comedy</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Advice</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Brothers</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Tarantulas</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Popular culture </vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Tarantulas as pets</vra:term>
+                </vra:subject>
+                <vra:subject>
+                    <vra:term vocab="LCSH" href="http://id.loc.gov/search/">Parades</vra:term>
+                </vra:subject>
+            </vra:subjectSet>
+            
+            <vra:worktypeSet>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">Streaming Video</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<podcore:podcore xmlns:podcore="https://github.com/lkatzmarek/good-good-repository" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" 
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    xsi:schemaLocation="https://github.com/lkatzmarek/good-good-repository https://raw.githubusercontent.com/lkatzmarek/good-good-repository/master/mbmbam_schema.xsd">
+    
+    <podcore:recurringBits>Munch Squad</podcore:recurringBits>
+    
+    <podcore:modsSection>
+        <mods:mods>
+            <mods:genre authority="AAT" authorityURI="http://www.getty.edu/research/tools/vocabularies/aat/">T-shirts</mods:genre>
+            
+            <mods:identifier type="local">mbmbam_013</mods:identifier>
+            
+            <mods:identifier type="uri">https://store.dftba.com/collections/mcelroy/products/munch-squad-shirt</mods:identifier>
+            
+            <mods:name type="personal" authority="LCNAF" authorityURI="http://id.loc.gov/authorities/names.html">
+                <mods:namePart>Schultz, Sam</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">designer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>DFTBA Records, LLC</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator" authorityURI="http://www.loc.gov/marc/relators/relaterm.html">distributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </podcore:modsSection>
+    
+    <podcore:dcSection>
+        <dc:title>Munch Squad T-Shirt</dc:title>
+        
+        <dc:date>2018</dc:date>
+        
+        <dc:description>A white T-shirt with red edging along the neck and arm holes, with an image, in blue and red ink, of a cook holding a burger on a platter with the words "munch squad" between the buns.</dc:description>
+       
+        <dc:language>en</dc:language>
+    </podcore:dcSection>
+    
+    <podcore:vraSection>
+        <vra:work>
+            <vra:relationSet>
+                <vra:relation type="relatedTo">My Brother, My Brother and Me (Podcast)</vra:relation>
+            </vra:relationSet>
+            
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>DFTBA Records, LLC</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+            <vra:subjectSet>
+                <vra:subject>
+            <vra:term type="otherName" vocab="local">My Brother, My Brother and Me (Podcast)</vra:term>
+                </vra:subject>
+               <vra:subject>
+                <vra:term type="otherName" vocab="local">MBMBaM</vra:term>
+            </vra:subject>
+            <vra:subject>
+                <vra:term type="otherName" vocab="local">Munch Squad</vra:term>
+            </vra:subject>
+            <vra:subject>
+                <vra:term vocab="LSCH" href="http://id.loc.gov/search/">Food</vra:term>
+            </vra:subject>
+            <vra:subject>
+                <vra:term vocab="LSCH" href="http://id.loc.gov/search/">Cooks</vra:term>
+            </vra:subject>
+            <vra:subject>
+                <vra:term type="descriptiveTopic" vocab="LSCH" href="http://id.loc.gov/search/">T-Shirts</vra:term>
+            </vra:subject> 
+                <vra:subject>
+                    <vra:term type="descriptiveTopic" vocab="LSCH" href="http://id.loc.gov/search/">Clothing</vra:term>
+                </vra:subject> 
+            </vra:subjectSet>
+            
+            <vra:worktypeSet>
+                <vra:worktype vocab="AAT" href="http://www.getty.edu/research/tools/vocabularies/aat/">T-Shirts</vra:worktype>
+            </vra:worktypeSet>
+        </vra:work>
+    </podcore:vraSection>
+    
+</podcore:podcore>
